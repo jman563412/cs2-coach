@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+data/
+
+# YouTube transcript dumps
+ct_side.txt
+t_side.txt
+
+# GSI listener session output (default location next to the exe)
+gsi-sessions/

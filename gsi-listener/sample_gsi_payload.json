@@ -1,0 +1,45 @@
+{
+  "provider": {
+    "name": "Counter-Strike 2",
+    "appid": 730,
+    "version": 13980,
+    "steamid": "76561198000000003",
+    "timestamp": 1751999999
+  },
+  "map": {
+    "mode": "competitive",
+    "name": "de_mirage",
+    "phase": "live",
+    "round": 5,
+    "team_ct": { "score": 3 },
+    "team_t": { "score": 2 }
+  },
+  "round": {
+    "phase": "live",
+    "bomb": "planted"
+  },
+  "player": {
+    "steamid": "76561198000000003",
+    "name": "player1",
+    "team": "CT",
+    "activity": "playing",
+    "state": { "health": 100, "armor": 100, "money": 3400 },
+    "match_stats": { "kills": 8, "assists": 2, "deaths": 4, "mvps": 1, "score": 23 }
+  },
+  "allplayers": {
+    "76561198000000003": {
+      "steamid": "76561198000000003",
+      "name": "player1",
+      "team": "CT",
+      "state": { "health": 100, "armor": 100, "money": 3400 },
+      "match_stats": { "kills": 8, "assists": 2, "deaths": 4, "mvps": 1, "score": 23 }
+    },
+    "76561198000000001": {
+      "steamid": "76561198000000001",
+      "name": "teammate1",
+      "team": "CT",
+      "state": { "health": 87, "armor": 100, "money": 1200 },
+      "match_stats": { "kills": 5, "assists": 3, "deaths": 5, "mvps": 0, "score": 15 }
+    }
+  }
+}
